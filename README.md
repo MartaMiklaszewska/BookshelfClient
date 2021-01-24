@@ -25,10 +25,12 @@ My bookshelf is a website made for storing information about read and wanted boo
 ## Features
 
 The home page of MyBookshelf web displays a form that contains title, author and status information. After clicking on "Add to your bookshelf" button submitted data are added to MongoDB database. There is also an option to check previously added books by clicking "Check your bookshelf" button.
+<br />
 <img src="https://github.com/MartaMiklaszewska/BookshelfClient/blob/main/Screenshot%20(691).png" alt="drawing" width="1000"/>
 <br/>
 The bookshelf page displays all the books that are inside MongoDB database. User can also edit previously added records as well as delete them.
 After clicking the logo on a navbar user is redirected to the home page.
+<br />
 <img src="https://github.com/MartaMiklaszewska/BookshelfClient/blob/main/Screenshot%20(692).png" alt="drawing" width="1000"/>
 
 ## Status
