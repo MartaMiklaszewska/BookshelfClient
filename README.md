@@ -5,5 +5,5 @@ My bookshelf is an app made for storing information about read and wanted books.
 
 ## Screenshots
 
-![Alt text](https://github.com/MartaMiklaszewska/BookshelfClient/blob/main/Screenshot%20(691).pngraw=true)
+![Alt text](https://github.com/MartaMiklaszewska/BookshelfClient/blob/main/Screenshot%20(691).pngraw=true =250x250)
 
