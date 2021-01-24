@@ -32,6 +32,6 @@ The bookshelf page displays all the books that are inside MongoDB database. User
 After clicking the logo on a navbar user is redirected to the home page.
 <hr />
 <img src="https://github.com/MartaMiklaszewska/BookshelfClient/blob/main/Screenshot%20(692).png" alt="drawing" width="1000"/>
-
+<hr />
 ## Status
 Finished
