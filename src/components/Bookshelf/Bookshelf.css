@@ -1,0 +1,79 @@
+.Bookshelf {
+  font-family:'Roboto', sans-serif;
+  background: url("../Home/bookshelf.png") repeat;
+  background-size: cover; 
+  text-align: center;
+  justify-content:center;
+  align-items: center;
+  margin-top: 70px; 
+  margin-left: 100px; 
+  margin-right:100px;
+}
+
+
+
+#input {
+  
+  font-size: 18px;
+  border-radius: 4px;
+  border:0;
+  border-bottom: solid rgb(156, 97, 138);
+
+}
+
+nav {
+  background-color:  rgb(224, 213, 221);
+  opacity: 0.95;
+}
+
+
+hr {
+width: 100%;
+color:  rgb(156, 97, 138);
+height: 1px;
+
+}
+
+#custom-select {
+  width: 150px;
+  border: 3px solid #a7a7a7;
+  font-size: 18px;
+  border-style:inset;
+  margin: 10px;
+  
+}
+
+label {
+  margin: 10px;
+}
+
+#form {
+  text-align: center;
+  display: flex;
+  flex-direction: column;  
+  justify-content:center;
+  align-items: center;
+  margin: 30px; 
+  
+
+}
+
+#bookObject {
+
+  text-align: center;
+  display: flex;
+  flex-direction: column;  
+  justify-content:center;
+  align-items: center;
+  margin: 30px;
+  
+  
+}
+
+#formStyle {
+  background-color: aquamarine;
+}
+
+.btn {
+  margin: 4px;
+}
